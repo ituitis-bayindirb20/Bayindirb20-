@@ -1,0 +1,36 @@
+table {
+    margin: 50px auto 0 auto;
+	border-collapse:collapse;
+    border-spacing:0;
+}
+
+table td {
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+	text-align:center;
+    vertical-align:middle;
+	
+}
+table th {
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+	text-align:center;
+    vertical-align:middle;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none
+}
+
