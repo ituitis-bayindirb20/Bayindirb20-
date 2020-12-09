@@ -1,0 +1,19 @@
+.contact {
+	margin: 60px;
+}
+
+.contact div {
+	background-color: #ececec;
+	height: 300px; 
+	border: 5px solid #cecece;
+	padding: 60px;
+}
+
+.contact ul {
+	list-style-position: outside;
+}
+
+.contact ol {
+	list-style-position: inside;
+}
+

@@ -1,0 +1,9 @@
+.banner {
+	
+}
+
+.info {
+	height: 100%;
+	background-color: green;
+	display: flex;
+}

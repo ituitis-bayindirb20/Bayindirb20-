@@ -1,0 +1,18 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-image: url("../images/Background_Pack/body.jpg");
+	background-position: center;
+	background-size: cover;
+	display: block;
+}
+
+.banner {
+    width:100%;
+    height:auto;
+}
+
+@font-face {
+    font-family: 'Nerko One';
+    src: url('../fonts/NerkoOne-Regular.ttf');
+}
