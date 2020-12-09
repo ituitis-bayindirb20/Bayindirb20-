@@ -1,0 +1,29 @@
+.info {
+	margin: 100px;
+	
+}
+
+.info {
+	background-color: #ececec;
+	height: 750px;
+	border: 5px solid #cecece;
+	padding: 60px;
+}
+
+.info ul {
+	list-style-position: outside;
+}
+
+.info ol {
+	list-style-position: inside;
+}
+
+.baslık {
+	color:#00c700;
+	
+}
+
+.kısım {
+	color:#000
+	
+}

@@ -1,0 +1,101 @@
+.bbfooter{
+	bottom: 0;
+	background-color: #cecece;
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	padding: 50px 50px 60px 50px;
+	margin-top: 200px;
+}
+
+
+.bbfooter .fsol {
+	display: inline-block;
+	vertical-align: top;
+	width: 32%;
+}
+
+.bbfooter .fsol img{
+	display: block;
+	width: 60px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bbfooter .fsol h3{
+	color:  #000;
+	font-family:'Nerko One', cursive;
+	margin: 0;
+	text-align: center;
+	font-size: 50px;
+}
+
+.bbfooter .fsol a {
+	text-decoration-color:#00c700;
+}
+
+.bbfooter .copyright{
+	color:  #000;
+	font-size: 20px;
+	font-weight: normal;
+	margin: 0;
+	text-align: center;
+}
+
+.bbfooter .forta {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bbfooter .forta p{
+	display: block;
+	vertical-align: middle;
+	text-align:center;
+	color: #000;
+	font-size:20px;
+	margin-top: 30px;
+}
+
+.bbfooter .forta p a{
+	color:  #00c700;
+	text-decoration: none;
+	margin-top: 30px;
+}
+
+#colorforphone {
+	color:  #00c700;
+	
+}
+
+
+.bbfooter .sag {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	padding-top: 30px;
+	margin-left: 30px;
+}
+
+.bbfooter .para{
+	margin-top: 30px;
+	line-height: 20px;
+	margin: 0;
+	font: bold 16px sans-serif;
+	text-align: center;
+}
+
+.bbfooter .sag .links{
+	margin: 20px 0 12px;
+	text-align: center;
+}
+
+.bbfooter .sag .links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  #000;
+}
